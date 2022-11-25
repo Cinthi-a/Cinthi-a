@@ -9,10 +9,6 @@ https://wa.me/+555511932788267?text=Ol%C3%A1,%20me%20chamo%20Cinthia,%20sou%20de
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-inthiasantos/)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vrWSBxa9wu)
-
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cinthiasantoscs)
-
 ![Cinthia Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthi-a&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia

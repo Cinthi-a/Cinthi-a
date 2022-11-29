@@ -16,8 +16,13 @@
 
 <h1 align="center"> 💻 Tecnologias 💻  </h1>
     <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632256-09e4c1cd-2703-4ebf-8f11-88b7bfa1f259.png" />
-    
-    
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
     
     
     
@@ -31,12 +36,4 @@ https://wa.me/+555511932788267?text=Ol%C3%A1,%20me%20chamo%20Cinthia,%20sou%20de
 
 ![Cinthia Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthi-a&show_icons=true&theme=radical)
 
-### Tecnologias que utilizo no meu dia
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
+#

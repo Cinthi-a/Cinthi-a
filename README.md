@@ -6,13 +6,13 @@
   <h1 align="center"> 👋 Sobre mim 🔎 </h1>
     <img align="right" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204630245-1c117812-f657-49d5-b984-30516be8f51e.png" />
     
-### 🤩️ Amante de Tecnologia, Jogos, Café, Anime e Lo-Fi 🤩️
+### 🤩️ Apaixonada por Desenvolvimento Web, Jogos e Livros 💻🎮📚
 
-🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀
+### 🚀 Em busca de uma oportunidade para atuar como Front End, sempre buscando cada vez mais conhecimento para poder avançar e me destacar no mercado de trabalho 🚀
 
-💻 Estudo na Faculdade IESB e na escola de formação de devs Rocketseat. Estou praticando JavaScript e React na Rocketseat, e Python na IESB 💻
+### 💻 Graduanda em Gestão da Tecnologia da Informação (4 Semestre) e em Analise e Desenvolvimento de Sistemas (2 Semestre) pelo Centro Universitário Senac. 👩‍🎓💻
 
-🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮
+### 🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Front-End Web 🔮
 
 
     

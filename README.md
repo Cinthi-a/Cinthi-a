@@ -1,5 +1,3 @@
-
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
 
@@ -14,23 +12,9 @@
 
 ### 🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Front-End Web 🔮
 
-<h1 align="center"> 💻 Tecnologias 💻  </h1>
+   <h1 align="center"> 💻 Tecnologias 💻  </h1>
     <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632655-75a3e81b-ad1f-4b05-8296-8bec5ae2fbec.png" />
+    <img align="right" alt="HTML, CSS e JavaScript" src="https://user-images.githubusercontent.com/62853085/204642262-fc2b1828-b738-4f85-97f0-a9d33c57ddb7.png" />
    
-<div style="display: inline_block"><br/>
-    <img align="right" heigt="150px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="right" heigt="150px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="right" heigt="150px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    
-</div>
   
-<h1 align="center"> 📱 Contato 📱 </h1>
-    
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
-https://wa.me/+555511932788267?text=Ol%C3%A1,%20me%20chamo%20Cinthia,%20sou%20desenvolvedora%20Front%20End,%20posso%20te%20ajudar%20em%20algo?)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-inthiasantos/)
-
-![Cinthia Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthi-a&show_icons=true&theme=radical)
-
-
+ 

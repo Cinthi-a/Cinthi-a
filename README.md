@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
 
-  <h1 align="center"> Sobre mim </h1>
+  <h1 align="center"> 👋 Sobre mim 👋 </h1>
     
     
     

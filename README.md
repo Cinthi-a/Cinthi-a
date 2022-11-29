@@ -18,16 +18,11 @@
     <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632655-75a3e81b-ad1f-4b05-8296-8bec5ae2fbec.png" />
    
 <div style="display: inline_block"><br/>
-    <img width="100%" align="right" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="right" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="right" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="right" heigt="150px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="right" heigt="150px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="right" heigt="150px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     
 </div>
-    
-    
-    
-    
-    
   
 <h1 align="center"> 📱 Contato 📱 </h1>
     
@@ -38,4 +33,4 @@ https://wa.me/+555511932788267?text=Ol%C3%A1,%20me%20chamo%20Cinthia,%20sou%20de
 
 ![Cinthia Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthi-a&show_icons=true&theme=radical)
 
-#
+

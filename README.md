@@ -15,7 +15,7 @@
 ### 🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Front-End Web 🔮
 
 <h1 align="center"> 💻 Tecnologias 💻  </h1>
-    <img align="left" alt="Cinthia" src="(https://user-images.githubusercontent.com/62853085/204632655-75a3e81b-ad1f-4b05-8296-8bec5ae2fbec.png" />
+    <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632655-75a3e81b-ad1f-4b05-8296-8bec5ae2fbec.png" />
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

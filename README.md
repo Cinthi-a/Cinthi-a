@@ -1,7 +1,7 @@
 
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/203118917-71b63192-d0de-4334-b754-a9480249268a.png" />
+    <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
 
 ### Estes são os meus contatos:
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](

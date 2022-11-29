@@ -4,7 +4,16 @@
     <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
 
   <h1 align="center"> 👋 Sobre mim 🔎 </h1>
-    <img align="right" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204629148-96f92df6-8da0-4484-ae3a-a03e9bd5bb21.png" />
+    <img align="right" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204630245-1c117812-f657-49d5-b984-30516be8f51e.png" />
+    
+### 🤩️ Amante de Tecnologia, Jogos, Café, Anime e Lo-Fi 🤩️
+
+🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀
+
+💻 Estudo na Faculdade IESB e na escola de formação de devs Rocketseat. Estou praticando JavaScript e React na Rocketseat, e Python na IESB 💻
+
+🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮
+
 
     
     

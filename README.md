@@ -14,7 +14,8 @@
 
 ### 🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Front-End Web 🔮
 
-
+<h1 align="center"> 💻 Tecnologias 💻  </h1>
+    <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632256-09e4c1cd-2703-4ebf-8f11-88b7bfa1f259.png" />
     
     
     

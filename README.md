@@ -4,7 +4,8 @@
     <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
 
   <h1 align="center"> 👋 Sobre mim 🔎 </h1>
-    
+    <img align="right" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204629148-96f92df6-8da0-4484-ae3a-a03e9bd5bb21.png" />
+
     
     
     

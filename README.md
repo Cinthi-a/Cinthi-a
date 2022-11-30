@@ -7,7 +7,7 @@
 
 ### 🚀 Em busca de uma oportunidade para atuar como Front End, sempre buscando cada vez mais conhecimento para poder avançar e me destacar no mercado de trabalho 🚀
 
-### 💻 Graduanda em Gestão da Tecnologia da Informação (4 Semestre) e em Analise e Desenvolvimento de Sistemas (2 Semestre) pelo Centro Universitário Senac. 👩‍🎓💻
+### 💻 Graduanda em Gestão da Tecnologia da Informação e em Analise e Desenvolvimento de Sistemas pelo Centro Universitário Senac. 👩‍🎓💻
 
 ### 🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Front-End Web 🔮
 

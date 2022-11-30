@@ -13,7 +13,7 @@
 
    <h1 align="center"> 💻 Tecnologias 💻  </h1>
     <img align="left" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204632655-75a3e81b-ad1f-4b05-8296-8bec5ae2fbec.png" />
-    <img align="right" alt="HTML, CSS e JavaScript" src="https://user-images.githubusercontent.com/62853085/204642262-fc2b1828-b738-4f85-97f0-a9d33c57ddb7.png" />
+    <img align="right" alt="HTML, CSS e JavaScript" src="https://user-images.githubusercontent.com/62853085/204866408-66d415d3-7d7b-4b95-98c8-8819e759858a.png" />
    
   
  

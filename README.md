@@ -1,7 +1,6 @@
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204622295-cd65db84-27b0-4bb0-825f-dc4cc0353451.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=BA55D3&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-  <h1 align="center"> 👋 Sobre mim 🔎 </h1>
+  <h1 align="left"> 👋 Sobre mim 🔎 </h1>
     <img align="right" alt="Cinthia" src="https://user-images.githubusercontent.com/62853085/204630245-1c117812-f657-49d5-b984-30516be8f51e.png" />
     
 ### 🤩️ Apaixonada por Desenvolvimento Web, Jogos e Livros 💻🎮📚
